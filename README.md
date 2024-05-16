@@ -1,6 +1,6 @@
 # robot_query
 
-## GPT-4 Omni Autonomously Generated Query
+## GPT-4 Omni Autonomously Generated Query Prompt
 
 
 **Task and Scenario Description:**
