@@ -74,6 +74,7 @@ Here is the list of each potential toy set part's probability of being the one t
      - "What are the distinguishing features of the part you're looking for?"
 
 **Example Output JSON Format:**
+
 {{"verbal": "Does the part you need have holes?", "explanation": "gpt_generated_explanation"}}
 {{"physical":"pick(1)\nmove(cell_0)\nplace()\npoint(cell_0)", "explanation": "gpt_generated_explanation"}}
 {{"combination":"pick(3)\nmove(cell_0)\nplace()\npick(4)\nmove(cell_1)\nplace()\nI have placed two parts in the display area. Can you tell me if either of these matches the part you need?", "explanation": "gpt_generated_explanation"}}
